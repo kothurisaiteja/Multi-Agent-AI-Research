@@ -8,3 +8,4 @@ langchain
 langchain-core
 langchain-groq
 langchain-google-genai
+rich
