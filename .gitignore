@@ -1,0 +1,13 @@
+@"
+**/.venv/
+**/.env
+**/__pycache__/
+*.pyc
+**/node_modules/
+**/dist/
+**/build/
+
+.vscode/
+.idea/
+*.log
+"@ | Out-File -Encoding utf8 .gitignore
